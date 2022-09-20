@@ -55,7 +55,7 @@ export default function Home() {
       </div>
       {
         mobile &&    <div className='col-md-12 '>
-        <h1 className='d-flex justify-content-center align-items-center'>Click "<i style={{color:"yellow"}} class="fa-solid fa-arrows-up-down"></i>"  and drag up </h1>
+        <h1 className='d-flex justify-content-center align-items-center'>Click <i style={{color:"yellow"}} class="fa-solid fa-arrows-up-down"></i> and drag up </h1>
     
         <div className='d-md-none d-flex justify-content-center align-items-center'>
     
