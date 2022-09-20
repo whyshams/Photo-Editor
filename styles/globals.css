@@ -13,6 +13,9 @@ a {
 img{
   height: auto;
   width: 100%;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
 }
 * {
   box-sizing: border-box;
